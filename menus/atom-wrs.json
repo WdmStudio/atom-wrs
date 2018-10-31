@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Generate toArray",
+        "command": "atom-wrs:generate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "We'r Service Dev",
+          "submenu": [
+            {
+              "label": "Generate toArray at emplacment",
+              "command": "atom-wrs:generate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
