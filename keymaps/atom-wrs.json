@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-wrs:toggle"
+    "ctrl-alt-o": "atom-wrs:toggle",
+    "ctrl-alt-b": "atom-wrs:replaceform"
   }
 }

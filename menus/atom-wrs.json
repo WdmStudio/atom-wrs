@@ -15,8 +15,12 @@
           "label": "We'r Service Dev",
           "submenu": [
             {
-              "label": "Generate toArray at emplacment",
-              "command": "atom-wrs:generate"
+                "label": "Generate toArray at emplacment",
+                "command": "atom-wrs:generate"
+            },
+            {
+                "label": "Remplace le formulaire",
+                "command": "atom-wrs:replaceform"
             }
           ]
         }
